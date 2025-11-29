@@ -1,21 +1,21 @@
 // Product data
 let products = [
-    {id:1, name:"Casual T-Shirt", price:499, img:"/asset/images/T-shirt.jpg",},
-    {id:2, name:"Sneakers", price:1499, img:"/asset/images/sneaker.jpg"},
-    {id:3, name:"Sunglasses", price:699, img:"/asset/images/sunglasses.jpg"},
+    {id:1, name:"Casual T-Shirt", price:499, img:"asset/images/T-shirt.jpg",},
+    {id:2, name:"Sneakers", price:1499, img:"asset/images/sneaker.jpg"},
+    {id:3, name:"Sunglasses", price:699, img:"asset/images/sunglasses.jpg"},
 
-    {id:4, name:"watches", price:999, img:"/asset/images/watch-1.jpg"},
-    {id:5, name:"watches", price:899, img:"/asset/images/watch-2.jpg"},
-    {id:6, name:"watches", price:799, img:"/asset/images/watch-3.jpg"},
+    {id:4, name:"watches", price:999, img:"asset/images/watch-1.jpg"},
+    {id:5, name:"watches", price:899, img:"asset/images/watch-2.jpg"},
+    {id:6, name:"watches", price:799, img:"asset/images/watch-3.jpg"},
 
-    {id:7, name:"shoes", price:999, img:"/asset/images/shoes-1.jpg"},
-    {id:8, name:"shoes", price:999, img:"/asset/images/shoes-2.jpg"},
-    {id:9, name:"shoes", price:999, img:"/asset/images/shoes-3.jpg"},
+    {id:7, name:"shoes", price:999, img:"asset/images/shoes-1.jpg"},
+    {id:8, name:"shoes", price:999, img:"asset/images/shoes-2.jpg"},
+    {id:9, name:"shoes", price:999, img:"asset/images/shoes-3.jpg"},
 
-    {id:10, name:"tshirt", price:599, img:"/asset/images/tshirt-1.jpg"},
-    {id:11, name:"tshirt", price:699, img:"/asset/images/tshirt-2.jpg"},
-     {id:12, name:"tshirt", price:899, img:"/asset/images/tshirt-3.jpg"},
-    {id:13, name:"tshirt", price:999, img:"/asset/images/tshirt-4.jpg"},
+    {id:10, name:"tshirt", price:599, img:"asset/images/tshirt-1.jpg"},
+    {id:11, name:"tshirt", price:699, img:"asset/images/tshirt-2.jpg"},
+     {id:12, name:"tshirt", price:899, img:"asset/images/tshirt-3.jpg"},
+    {id:13, name:"tshirt", price:999, img:"asset/images/tshirt-4.jpg"},
 
 
     // Add more products as needed
