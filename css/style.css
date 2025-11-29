@@ -1,0 +1,28 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.card img {
+    height: 220px;
+    object-fit: cover;
+}
+
+
+.category-box {
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    width:200px;
+    margin: 15px;
+}
+
+.category-box:hover {
+    transform: translateY(-5px);
+}
+.category-box img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
